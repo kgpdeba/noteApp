@@ -1,0 +1,14 @@
+.card {
+  background-color: #17141d;
+  width: 20vw;
+  height: 30vh;
+  padding: 20px;
+  margin-top: 5px;
+  color: white;
+}
+.container {
+  background-color: pink;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
